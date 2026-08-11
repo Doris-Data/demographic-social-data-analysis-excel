@@ -172,4 +172,4 @@ Data Analyst
 
 Skills: Excel | Power Query | Data Cleaning | Data Visualization | Statistical Analysis
 
-LinkedIn: linkedin.com/in/doris-twumasi
+LinkedIn: https://www.linkedin.com/in/doris-twumasi
